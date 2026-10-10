@@ -9,7 +9,7 @@ supports `--json`, errors are structured, and no subcommand drops you into a REP
 ## Install
 
 ```bash
-pip install git+https://github.com/issuebadge2026/cli-anything-issuebadge
+pip install cli-anything-issuebadge
 export ISSUEBADGE_API_KEY="your-api-key"   # app.issuebadge.com → Developer → API keys
 cli-anything-issuebadge server status
 ```

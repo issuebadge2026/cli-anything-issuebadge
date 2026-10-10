@@ -28,7 +28,7 @@ changed after printing.
 
 ## Installation
 ```bash
-pip install git+https://github.com/issuebadge2026/cli-anything-issuebadge
+pip install cli-anything-issuebadge
 ```
 
 ## Command Reference
