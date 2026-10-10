@@ -1,0 +1,19 @@
+{
+  "name": "issuebadge",
+  "display_name": "IssueBadge",
+  "version": "1.0.0",
+  "description": "Issue, revoke and verify digital certificates and badges, download certificate PDFs, and manage dynamic QR codes via the IssueBadge API",
+  "requires": "ISSUEBADGE_API_KEY (app.issuebadge.com → Developer → API keys)",
+  "homepage": "https://issuebadge.com",
+  "source_url": "https://github.com/issuebadge2026/cli-anything-issuebadge",
+  "install_cmd": "pip install git+https://github.com/issuebadge2026/cli-anything-issuebadge",
+  "entry_point": "cli-anything-issuebadge",
+  "skill_md": "https://raw.githubusercontent.com/issuebadge/cli-anything-issuebadge/main/SKILL.md",
+  "category": "web",
+  "contributors": [
+    {
+      "name": "IssueBadge",
+      "url": "https://github.com/issuebadge2026"
+    }
+  ]
+}
